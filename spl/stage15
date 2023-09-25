@@ -1,0 +1,9 @@
+./spl ../stage15/int7.spl
+./spl ../stage15/int10.spl
+./spl ../stage15/timer.spl
+./spl ../stage15/module0.spl
+./spl ../stage15/module4.spl
+./spl ../stage15/module5.spl
+./spl ../stage15/module7.spl
+./spl ../stage15/exception.spl
+./spl ../stage15/os_startup.spl
